@@ -1,0 +1,4 @@
+#ignore all text files in the log directory
+log/*.txt
+*.bat
+archive/
